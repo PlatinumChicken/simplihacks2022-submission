@@ -1,4 +1,4 @@
-# WikiEnv - Simplihacks 2022 Submission
+# TSA-Software-Development-2024
 
 ## Inspiration
 With so many crazy events in the world—from the pandemic, to inflation, to wars—it's easy to forget what we take for granted: Earth. Over the past few years, there have been increasingly more devastating and fluctuating weather events, whether it be fierce storms or scorching drought. Just last week, we saw record high-temperature heatwaves hit regions all across the globe, including Europe, Asia, and North America. In fact, according to the UN, we must reduce our carbon emissions by over 7% each year by 2030 to stop global temperature from rising 1.5 degrees Celsius over pre-industrial temperatures. Therefore, we were inspired to create WikiEnv to educate people on how climate change affects places worldwide and empower them to stop it.
