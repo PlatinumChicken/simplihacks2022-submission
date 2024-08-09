@@ -8,8 +8,10 @@ import json
 
 def index(request):
     load_dotenv()
-    api = os.getenv("API_KEY")
-    google_api=os.getenv("GOOGLE_API_KEY")
+    # api = os.getenv("API_KEY")
+    # google_api=os.getenv("GOOGLE_API_KEY")
+    api="8676f071687e393d5cde400329be34eb"
+    google_api="5f87f687f7a29a67ea2ac5c1d29ef7567c5600de3c08aadbb2736bdbcd684d40"
 
     weather = {
         'city' : "City: ?",
